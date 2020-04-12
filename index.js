@@ -8,4 +8,4 @@ var tom = new Cat('Tom');
 
 dog.chase(tom);
 
-console.log(dog);
+// console.log(dog);
